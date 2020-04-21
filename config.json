@@ -1,0 +1,27 @@
+{
+   "params":
+    { 
+        "local_server" : "True",
+        "local_uri" :"mysql://root:@localhost/blog_page_post",
+        "prod_uri" :"mysql://root:@localhost/blog_page_post",
+        "fb_url":"https://facebook.com/blog_page_post",
+        "tw_url":"https://twitter.com/blog_page_post",
+        "gh_url":"https://github.com/blog_page_post",
+        "blog_name": "True Speaks",
+        "tag_lines":"True Blog by Mohit",
+        "gmail-user":"geetaatrading@gmail.com",
+        "gmail-password":"cimplE@007",
+        "about_text":"hello this blog dedicated to the space technology",
+        "no_of_post":2,
+        "login_image":"login.svg",
+        "admin_user":"ravijee",
+        "admin_password":"cimple123",
+        "upload_location":"C:\\Users\\Mohit\\Flask_Blog\\static"
+    
+
+
+    }
+
+
+
+}
